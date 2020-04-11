@@ -1,0 +1,3 @@
+-imutils
+-cv2
+-frozen_east_text_detection.tar.gz(https://uc0e5c5a34899a34716994b2225b.dl.dropboxusercontent.com/cd/0/get/A1IOiah-6cF-yTb8BtvDr9YKAyui-AZRlEwNilZO38a0Q6HIloY_M0BylWrOimJ1FNBI3ytnRSDcYCBpg5bO-6dYE54gssW5H7Iy3WJzonJhbA/file?dl=1#):put it in the same folder along with Word_Detector.py
