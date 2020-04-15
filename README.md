@@ -1,5 +1,5 @@
 # ML_Project_on_Word-Detector
-##Introduction 
+## Introduction 
 In this project we detect the words in an image and make bounding boxes around those words.
 This is done using OpenCV to detect text in images using the EAST text detector.
 
